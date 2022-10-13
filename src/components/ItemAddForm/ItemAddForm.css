@@ -1,0 +1,13 @@
+.item-add-form {
+  margin-top: 10px;
+  display: flex;
+  gap: 10px;
+}
+
+.item-add-form_input {
+  flex: 1 0 content;
+}
+
+.item-add-form_button {
+  flex: 1 0 content;
+}
